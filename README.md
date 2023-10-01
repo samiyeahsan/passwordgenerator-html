@@ -9,7 +9,7 @@ I did create varibale for charactors that can be choose for each password.
 .every time user says yes to adding character it will add the value to an aarray and at the end it can create the final password. 
 
 ### The following image shows the web application's appearance and functionality:
-![preview image](https://github.com/samiyeahsan/passwordgenerator-html/blob/main/assets/image/passwordpic.png?raw=true)
+![preview image](https://github.com/samiyeahsan/passwordgenerator-html/blob/main/assets/image/passwordpic.png)
 
 [Deployed Link](https://samiyeahsan.github.io/passwordgenerator-html/)
 
